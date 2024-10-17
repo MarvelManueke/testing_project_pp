@@ -1,2 +1,2 @@
-# testing_project_pp
-Testing project
+# Project PyQt
+Hi, this is my first *project* in **github**
